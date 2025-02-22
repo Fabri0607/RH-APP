@@ -6,7 +6,6 @@ Aplicación Front-End para un sistema básico de recursos humanos, desarrollada 
 ## Funcionalidades del proyecto
 - Interfaz gráfica interactiva para la gestión de recursos humanos.
 - Realización de consultas CRUD a la API desarrollada con Spring Boot.
-- Conexión con la base de datos MySQL para almacenar la información.
 
 Puedes acceder al código de la API aquí: [API de RH-APP](https://github.com/Fabri0607/RH-APP.git).
 
@@ -22,9 +21,3 @@ Puedes acceder al código de la API aquí: [API de RH-APP](https://github.com/Fa
 - **Node.js**: versión 14 o superior.
 - **NPM**: versión 6 o superior.
 - **React**: versión 18 o superior (dependiendo de las dependencias que estés usando).
-
-## Instrucciones de instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/Fabri0607/RH-APP.git
