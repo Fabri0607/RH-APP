@@ -7,7 +7,7 @@ Aplicación Front-End para un sistema básico de recursos humanos, desarrollada 
 - Interfaz gráfica interactiva para la gestión de recursos humanos.
 - Realización de consultas CRUD a la API desarrollada con Spring Boot.
 
-Puedes acceder al código de la API aquí: [API de RH-APP](https://github.com/Fabri0607/RH-APP.git).
+Puedes acceder al código de la API aquí: [API de RH-APP](https://github.com/Fabri0607/RH-API).
 
 ## Entorno de desarrollo
 
